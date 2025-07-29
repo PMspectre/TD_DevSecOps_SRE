@@ -129,3 +129,4 @@ Test CI/CD trigger mar. 29 juil. 2025 12:53:48 CEST
 Test CI/CD trigger mar. 29 juil. 2025 12:57:06 CEST
 Test CI/CD mar. 29 juil. 2025 13:00:57 CEST
 Retry Docker login mar. 29 juil. 2025 13:03:45 CEST
+Retry build mar. 29 juil. 2025 13:06:20 CEST
