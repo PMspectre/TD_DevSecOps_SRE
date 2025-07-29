@@ -124,3 +124,4 @@ Pour valider le TD, vous devez fournir :
 Bonne chance ! Ce TD est l’occasion de mettre en pratique des notions essentielles de SRE et de DevSecOps tout en manipulant des outils modernes (Docker, GitHub Actions, Prometheus, Grafana, Trivy, Checkov). N’hésitez pas à aller plus loin : ajouter des tests unitaires, intégrer un linter, mettre en place des alertes Prometheus, etc.
 
 
+Test CI/CD trigger mar. 29 juil. 2025 12:49:08 CEST
