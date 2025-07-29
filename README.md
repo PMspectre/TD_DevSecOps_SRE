@@ -127,3 +127,4 @@ Bonne chance ! Ce TD est l’occasion de mettre en pratique des notions essentie
 Test CI/CD trigger mar. 29 juil. 2025 12:49:08 CEST
 Test CI/CD trigger mar. 29 juil. 2025 12:53:48 CEST
 Test CI/CD trigger mar. 29 juil. 2025 12:57:06 CEST
+Test CI/CD mar. 29 juil. 2025 13:00:57 CEST
