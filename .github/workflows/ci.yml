@@ -35,7 +35,7 @@ jobs:
         tags: ${{ secrets.DOCKERHUB_USERNAME }}/todo-app:latest
 
     - name: Run Trivy vulnerability scan
-      uses: aquasecurity/trivy-action@v0.64.1
+      uses: aquasecurity/trivy-action@v0.32.0
       with:
         image-ref: '${{ secrets.DOCKERHUB_USERNAME }}/todo-app:latest'
         format: 'sarif'
